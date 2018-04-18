@@ -1,0 +1,37 @@
+Datafile: logistic_387944_2000_pgexport_liblinear_output
+num threads: 1
+/home/joon/dana.software/external_libraries/liblinear-multicore-2.20/train -s 0 -e 1 -n 1 /home/joon/dana.software/external_libraries/datasets/liblinear/logistic_387944_2000_pgexport_liblinear_output
+average over 1 runs
+repeat 0...
+duration (us): 204852153
+average: 204852153
+
+num threads: 2
+/home/joon/dana.software/external_libraries/liblinear-multicore-2.20/train -s 0 -e 1 -n 2 /home/joon/dana.software/external_libraries/datasets/liblinear/logistic_387944_2000_pgexport_liblinear_output
+average over 1 runs
+repeat 0...
+duration (us): 155938231
+average: 155938231
+
+num threads: 4
+/home/joon/dana.software/external_libraries/liblinear-multicore-2.20/train -s 0 -e 1 -n 4 /home/joon/dana.software/external_libraries/datasets/liblinear/logistic_387944_2000_pgexport_liblinear_output
+average over 1 runs
+repeat 0...
+duration (us): 152220710
+average: 152220710
+
+num threads: 8
+/home/joon/dana.software/external_libraries/liblinear-multicore-2.20/train -s 0 -e 1 -n 8 /home/joon/dana.software/external_libraries/datasets/liblinear/logistic_387944_2000_pgexport_liblinear_output
+average over 1 runs
+repeat 0...
+duration (us): 150772919
+average: 150772919
+
+num threads: 16
+/home/joon/dana.software/external_libraries/liblinear-multicore-2.20/train -s 0 -e 1 -n 16 /home/joon/dana.software/external_libraries/datasets/liblinear/logistic_387944_2000_pgexport_liblinear_output
+average over 1 runs
+repeat 0...
+duration (us): 150731274
+average: 150731274
+
+

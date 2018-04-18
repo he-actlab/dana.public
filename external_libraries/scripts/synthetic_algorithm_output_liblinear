@@ -1,0 +1,37 @@
+Datafile: svm_67832_1740_pgexport_liblinear_output...
+num threads: 1
+/home/joon/dana.software/external_libraries/liblinear-multicore-2.20/train -s 0 -e 0.0001 -n 1 /home/joon/dana.software/external_libraries/datasets/liblinear/svm_67832_1740_pgexport_liblinear_output
+average over 1 runs
+repeat 0...
+duration (us): 250350451
+average: 250350451
+
+num threads: 2
+/home/joon/dana.software/external_libraries/liblinear-multicore-2.20/train -s 0 -e 0.0001 -n 2 /home/joon/dana.software/external_libraries/datasets/liblinear/svm_67832_1740_pgexport_liblinear_output
+average over 1 runs
+repeat 0...
+duration (us): 233763251
+average: 233763251
+
+num threads: 4
+/home/joon/dana.software/external_libraries/liblinear-multicore-2.20/train -s 0 -e 0.0001 -n 4 /home/joon/dana.software/external_libraries/datasets/liblinear/svm_67832_1740_pgexport_liblinear_output
+average over 1 runs
+repeat 0...
+duration (us): 228936916
+average: 228936916
+
+num threads: 8
+/home/joon/dana.software/external_libraries/liblinear-multicore-2.20/train -s 0 -e 0.0001 -n 8 /home/joon/dana.software/external_libraries/datasets/liblinear/svm_67832_1740_pgexport_liblinear_output
+average over 1 runs
+repeat 0...
+duration (us): 227782388
+average: 227782388
+
+num threads: 16
+/home/joon/dana.software/external_libraries/liblinear-multicore-2.20/train -s 0 -e 0.0001 -n 16 /home/joon/dana.software/external_libraries/datasets/liblinear/svm_67832_1740_pgexport_liblinear_output
+average over 1 runs
+repeat 0...
+duration (us): 227401974
+average: 227401974
+
+
