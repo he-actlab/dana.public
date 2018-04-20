@@ -8,7 +8,7 @@ Usage:
 
 measure.py: madlib measurement script
 
-scripts: directory that includes helpder scripts for measure.py
+scripts: directory that includes helder scripts for measure.py
 
 config_set1.json, config_set2.json: json files for setting 1 and 2
 
